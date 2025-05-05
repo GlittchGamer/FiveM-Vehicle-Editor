@@ -1,7 +1,6 @@
 fx_version "cerulean"
 
-description "Live Vehicle Handling Editor for HRRP Vehicle devs"
-author "Stroudy"
+description "Live Vehicle Handling Editor"
 version '1.0.0'
 
 lua54 'yes'
