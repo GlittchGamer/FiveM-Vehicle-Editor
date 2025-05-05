@@ -1,0 +1,164 @@
+[
+    {
+        "name": "fMass",
+        "history": []
+    },
+    {
+        "name": "fInitialDragCoeff",
+        "history": []
+    },
+    {
+        "name": "fPercentSubmerged",
+        "history": []
+    },
+    {
+        "name": "fDriveBiasFront",
+        "history": []
+    },
+    {
+        "name": "nInitialDriveGears",
+        "history": []
+    },
+    {
+        "name": "fInitialDriveForce",
+        "history": []
+    },
+    {
+        "name": "fDriveInertia",
+        "history": []
+    },
+    {
+        "name": "fClutchChangeRateScaleUpShift",
+        "history": []
+    },
+    {
+        "name": "fClutchChangeRateScaleDownShift",
+        "history": []
+    },
+    {
+        "name": "fInitialDriveMaxFlatVel",
+        "history": []
+    },
+    {
+        "name": "fBrakeForce",
+        "history": []
+    },
+    {
+        "name": "fBrakeBiasFront",
+        "history": []
+    },
+    {
+        "name": "fHandBrakeForce",
+        "history": []
+    },
+    {
+        "name": "fSteeringLock",
+        "history": []
+    },
+    {
+        "name": "fTractionCurveMax",
+        "history": []
+    },
+    {
+        "name": "fTractionCurveMin",
+        "history": []
+    },
+    {
+        "name": "fTractionCurveLateral",
+        "history": []
+    },
+    {
+        "name": "fTractionSpringDeltaMax",
+        "history": []
+    },
+    {
+        "name": "fLowSpeedTractionLossMult",
+        "history": []
+    },
+    {
+        "name": "fCamberStiffnesss",
+        "history": []
+    },
+    {
+        "name": "fTractionBiasFront",
+        "history": []
+    },
+    {
+        "name": "fTractionLossMult",
+        "history": [
+            0.8
+        ]
+    },
+    {
+        "name": "fSuspensionForce",
+        "history": []
+    },
+    {
+        "name": "fSuspensionCompDamp",
+        "history": []
+    },
+    {
+        "name": "fSuspensionReboundDamp",
+        "history": []
+    },
+    {
+        "name": "fSuspensionUpperLimit",
+        "history": []
+    },
+    {
+        "name": "fSuspensionLowerLimit",
+        "history": []
+    },
+    {
+        "name": "fSuspensionRaise",
+        "history": []
+    },
+    {
+        "name": "fSuspensionBiasFront",
+        "history": []
+    },
+    {
+        "name": "fAntiRollBarForce",
+        "history": []
+    },
+    {
+        "name": "fAntiRollBarBiasFront",
+        "history": []
+    },
+    {
+        "name": "fRollCentreHeightFront",
+        "history": []
+    },
+    {
+        "name": "fRollCentreHeightRear",
+        "history": []
+    },
+    {
+        "name": "fCollisionDamageMult",
+        "history": []
+    },
+    {
+        "name": "fWeaponDamageMult",
+        "history": []
+    },
+    {
+        "name": "fDeformationDamageMult",
+        "history": []
+    },
+    {
+        "name": "fEngineDamageMult",
+        "history": []
+    },
+    {
+        "name": "fPetrolTankVolume",
+        "history": []
+    },
+    {
+        "name": "fOilVolume",
+        "history": []
+    },
+    {
+        "name": "nMonetaryValue",
+        "history": []
+    }
+]
